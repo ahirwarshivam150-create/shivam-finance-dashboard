@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Finance Dashboard
 
 A modern, responsive finance dashboard built with React, Next.js, and Tailwind CSS. All amounts are displayed in Indian Rupees (INR).
@@ -108,3 +109,7 @@ Edit `lib/mock-data.ts` to change the sample data. Replace with real API calls f
 ## License
 
 MIT
+=======
+# shivam-finance-dashboard
+A modern and responsive Finance Dashboard UI built using React and Tailwind CSS. It includes summary cards, charts, transactions table, role-based UI, and insights using mock data.
+>>>>>>> bb54927c1a77d5fdb3e3a457e606141277e38075
